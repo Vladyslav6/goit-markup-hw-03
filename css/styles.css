@@ -91,6 +91,7 @@ img {
   list-style: none;
 }
 .first_site {
+  padding: 24px 0;
   font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.02em;
