@@ -62,7 +62,7 @@ img {
 }
 
 .first_logo {
-  padding: 24px 0 24px;
+  padding: 24px 0;
   margin-right: 76px;
   color: var(--iris);
   font-family: "Raleway", sans-serif;
