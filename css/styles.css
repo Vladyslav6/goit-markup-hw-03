@@ -105,10 +105,11 @@ img {
   color: #404bbf;
 }
 .adress {
+  /* padding: 24px 0; */
   font-style: normal;
-  padding: 24px 0;
 }
 .adres_link {
+  padding: 24px 0;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: var(--adress-var);
