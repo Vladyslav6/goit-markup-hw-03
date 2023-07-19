@@ -56,9 +56,7 @@ img {
 }
 .first_nav {
   display: flex;
-
   margin-right: 332px;
-  /* justify-content: center; */
   align-items: center;
 }
 
@@ -83,10 +81,9 @@ img {
   text-transform: uppercase;
 }
 .list {
-  /* padding: 24px 0; */
   display: flex;
   gap: 40px;
-  /* justify-content: center; */
+
   align-items: center;
   list-style: none;
 }
