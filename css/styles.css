@@ -121,7 +121,8 @@ img {
   color: #404bbf;
 }
 /* Header_clouse */
-
+/* open_main */
+/* first_sect */
 .sect {
   background-color: var(--section-one);
 }
@@ -161,6 +162,7 @@ img {
   letter-spacing: 0.02em;
   color: var(--paragtwo);
 }
+/* close_sect */
 /* section_two_clouse */
 .secthree {
 }
