@@ -1,0 +1,174 @@
+:root {
+  --background-color: #ffffff;
+  --iris: #4d5ae5;
+  --first-site: #2e2f42;
+  --adress-var: #434455;
+  --section-one: #2e2f42;
+  --secti-two: #2e2f42;
+  --paragtwo: #434455;
+  --sectithree: #2e2f42;
+  --footercol: #2e2f42;
+  --colorteam: #2e2f42;
+  --footerpar: #f4f4fd;
+  --buttonport: #4d5ae5;
+  --bgroundport: #f4f4fd;
+}
+body {
+  font-family: "Roboto", sans-serif;
+  color: #434455;
+  background-color: var(--background-color);
+}
+
+.link {
+  text-decoration: none;
+}
+/* Header */
+.first_logo {
+  color: var(--iris);
+  font-family: "Raleway", sans-serif;
+  font-weight: 800;
+  font-size: 18px;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+}
+.second_logo {
+  color: var(--navyblue, #2e2f42);
+  font-family: "Raleway", sans-serif;
+  font-weight: 800;
+  font-size: 18px;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+}
+.list {
+  list-style: none;
+}
+.first_site {
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: var(--first-site);
+  text-decoration: none;
+}
+/* #404bbf */
+
+.first_site:hover {
+  color: #404bbf;
+}
+.first_site:focus {
+  color: #404bbf;
+}
+.adress {
+  font-style: normal;
+}
+.adres_link {
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: var(--adress-var);
+  text-decoration: none;
+}
+.adres_link:hover {
+  color: #404bbf;
+}
+.adres_link:focus {
+  color: #404bbf;
+}
+/* Header_clouse */
+
+.sect {
+  background-color: var(--section-one);
+}
+.first_header {
+  font-size: 56px;
+  line-height: 1.07;
+  text-align: center;
+  letter-spacing: 0.02em;
+  color: #ffffff;
+}
+.first_button {
+  background-color: #4d5ae5;
+  font-family: inherit;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color: #ffffff;
+  cursor: pointer;
+}
+.first_button:hover {
+  background-color: #404bbf;
+}
+.first_button:focus {
+  background-color: #404bbf;
+}
+.headsecti {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: var(--secti-two);
+}
+.parsectitwo {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: var(--paragtwo);
+}
+/* section_two_clouse */
+.secthree {
+}
+.whatare {
+  font-size: 36px;
+  line-height: 1.11;
+  text-align: center;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+  color: var(--sectithree);
+}
+/* clousethreesecti */
+.secour {
+  background-color: #f4f4fd;
+}
+.photo {
+  background-color: #ffffff;
+}
+
+/* footer */
+.foot {
+  background-color: var(--footercol);
+}
+.seclog {
+  color: #f4f4fd;
+  font-family: "Raleway", sans-serif;
+  font-weight: 800;
+  font-size: 18px;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+}
+.parfooter {
+  line-height: 1.5;
+  color: var(--footerpar);
+  letter-spacing: 0.02em;
+}
+
+/* portfolio */
+.butport {
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color: var(--buttonport);
+  background-color: var(--bgroundport);
+  cursor: pointer;
+}
+.butport:hover {
+  color: #ffffff;
+  background-color: #404bbf;
+}
+.butport:focus {
+  color: #ffffff;
+  background-color: #404bbf;
+}
