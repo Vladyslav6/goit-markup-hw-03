@@ -308,16 +308,15 @@ img {
 .section_button {
   padding: 96px 0 120px 0;
 }
-.button .list {
+
+.section_button .container .button .list {
   display: flex;
   justify-content: center;
-}
-.section_button .container .button .list {
   gap: 24px;
+  margin-bottom: 72px;
 }
 .img_portfolio {
   display: flex;
-  padding-top: 72px;
 }
 .img_portfolio .list {
   flex-wrap: wrap;
