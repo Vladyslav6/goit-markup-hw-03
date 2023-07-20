@@ -256,6 +256,7 @@ img {
 .foot .container .first_logo {
   display: inline-block;
   margin-bottom: 16px;
+  padding: 0;
 }
 
 .seclog {
@@ -276,6 +277,8 @@ img {
 }
 
 /* portfolio */
+/* open_header_portfoio */
+/* close_header_portfoio */
 .butport {
   font-family: "Roboto", sans-serif;
   font-weight: 500;
@@ -285,6 +288,9 @@ img {
   color: var(--buttonport);
   background-color: var(--bgroundport);
   cursor: pointer;
+  border-radius: 4px;
+  padding: 12px 24px;
+  border: 1px solid var(--cornflower, #e7e9fc);
 }
 .butport:hover {
   color: #ffffff;
@@ -294,3 +300,26 @@ img {
   color: #ffffff;
   background-color: #404bbf;
 }
+
+/* open_section_button */
+.section_button {
+  padding-top: 168px;
+}
+.button {
+  display: flex;
+  justify-content: center;
+}
+.section_button .container .button .list {
+  gap: 24px;
+}
+.img_portfolio {
+  display: flex;
+  padding-top: 72px;
+  padding: 72px 0 120px 0;
+}
+.img_portfolio .list {
+  flex-wrap: wrap;
+  column-gap: 24px;
+}
+/* close_main */
+/* open_footer */
