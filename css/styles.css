@@ -208,6 +208,7 @@ img {
 /* section_two_clouse */
 /* sect_three */
 .secthree {
+  padding-bottom: 120px;
 }
 .sect_img {
 }
@@ -215,7 +216,7 @@ img {
   gap: 24px;
   /* margin-top: 72px;
   padding-bottom: 120px; */
-  padding: 72px 0 120px 0;
+  padding-top: 72px;
   /* background-color: #4d5ae5; */
 }
 .whatare {
