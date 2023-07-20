@@ -306,7 +306,8 @@ img {
 
 /* open_section_button */
 .section_button {
-  padding-top: 168px;
+  padding-top: 96px;
+  padding-bottom: 120px;
 }
 .button {
   display: flex;
@@ -318,7 +319,6 @@ img {
 .img_portfolio {
   display: flex;
   padding-top: 72px;
-  padding: 72px 0 120px 0;
 }
 .img_portfolio .list {
   flex-wrap: wrap;
