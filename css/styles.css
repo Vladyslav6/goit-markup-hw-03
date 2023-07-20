@@ -279,7 +279,7 @@ img {
 /* portfolio */
 /* open_header_portfoio */
 .header_portfolio {
-  border-bottom: 1px solid #e7e9f;
+  border-bottom: 1px solid #e7e9fc;
 }
 /* close_header_portfoio */
 .butport {
@@ -308,7 +308,7 @@ img {
 .section_button {
   padding: 96px 0 120px 0;
 }
-.button {
+.button .list {
   display: flex;
   justify-content: center;
 }
