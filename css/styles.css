@@ -243,6 +243,7 @@ img {
 }
 .photo {
   background-color: #ffffff;
+  border-radius: 0px 0px 4px 4px;
 }
 .text_position {
   padding: 32px 0 32px 0;
