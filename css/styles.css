@@ -278,6 +278,9 @@ img {
 
 /* portfolio */
 /* open_header_portfoio */
+.header_portfolio {
+  border-bottom: 1px solid #e7e9f;
+}
 /* close_header_portfoio */
 .butport {
   font-family: "Roboto", sans-serif;
