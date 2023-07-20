@@ -251,11 +251,11 @@ img {
 /* footer */
 .foot {
   background-color: var(--footercol);
-  padding: 100px 0;
+  padding: 100px 0 100px;
 }
 .foot .container .first_logo {
   display: inline-block;
-  margin-bottom: 16px;
+  /* margin-bottom: 16px; */
 }
 /* .footer_block {
 } */
