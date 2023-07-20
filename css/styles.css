@@ -47,8 +47,11 @@ img {
 .header_clas {
   border-bottom: 1px solid #e7e9fc;
 }
-.container {
+.block_one {
   display: flex;
+}
+
+.container {
   width: 100%;
   max-width: 1158px;
   margin: 0 auto;
@@ -125,6 +128,7 @@ img {
 /* first_sect */
 .sect {
   background-color: var(--section-one);
+  padding: 188px 0;
 }
 .first_header {
   font-size: 56px;
@@ -134,6 +138,7 @@ img {
   color: #ffffff;
 }
 .first_button {
+  display: block;
   background-color: #4d5ae5;
   font-family: inherit;
   font-weight: 500;
@@ -142,6 +147,9 @@ img {
   letter-spacing: 0.04em;
   color: #ffffff;
   cursor: pointer;
+  width: 169px;
+  height: 56px;
+  border-radius: 4px;
 }
 .first_button:hover {
   background-color: #404bbf;
