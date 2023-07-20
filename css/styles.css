@@ -186,8 +186,10 @@ img {
   display: flex;
   gap: 24px;
 }
-.list_new_one {
-flex-basis: calc((100% - 3 * 24px) / 4) 
+.list_test {
+width: calc((100% - 72px) / 4);
+/* min-width: 264px; */
+/* flex-basis: calc((100% - 3 * 24px) / 4)  */
 } 
 /* .list_test {
  
