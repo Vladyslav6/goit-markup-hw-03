@@ -165,7 +165,7 @@ img {
 /* close_sect */
 /* two_sect */
 
-.sect_two {
+.sect-two {
   padding: 120px 0;
 }
 .visually-hidden {
@@ -181,7 +181,7 @@ img {
   overflow: hidden;
 }
 .list_new_one {
- list-style: none;
+  list-style: none;
   display: flex;
   gap: 24px;
 }
@@ -199,6 +199,7 @@ img {
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: var(--secti-two);
+  margin-bottom: 8px;
 }
 .parsectitwo {
   font-size: 16px;
