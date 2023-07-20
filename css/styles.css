@@ -188,7 +188,7 @@ img {
 }
 .list_test {
   width: calc((100% - 72px) / 4);
-} 
+}
 
 .headsecti {
   font-weight: 500;
@@ -206,7 +206,17 @@ img {
 }
 
 /* section_two_clouse */
+/* sect_three */
 .secthree {
+}
+.sect_img {
+}
+.secthree .container .list {
+  gap: 24px;
+  /* margin-top: 72px;
+  padding-bottom: 120px; */
+  padding: 72px 0 120px 0;
+  /* background-color: #4d5ae5; */
 }
 .whatare {
   font-size: 36px;
