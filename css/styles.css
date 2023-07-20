@@ -132,7 +132,6 @@ img {
 }
 .first_header {
   max-width: 496px;
-
   font-size: 56px;
   line-height: 1.07;
   text-align: center;
@@ -152,6 +151,7 @@ img {
   cursor: pointer;
   min-width: 169px;
   height: 56px;
+  border: none;
   border-radius: 4px;
 }
 .first_button:hover {
