@@ -251,7 +251,10 @@ img {
 /* footer */
 .foot {
   background-color: var(--footercol);
+  padding: 140px 0 100px 0;
 }
+/* .footer_block {
+} */
 .seclog {
   color: #f4f4fd;
   font-family: "Raleway", sans-serif;
@@ -262,6 +265,9 @@ img {
   text-transform: uppercase;
 }
 .parfooter {
+  max-width: 264px;
+  max-height: 72px;
+  margin-top: 17.5px;
   line-height: 1.5;
   color: var(--footerpar);
   letter-spacing: 0.02em;
