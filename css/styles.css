@@ -162,7 +162,21 @@ img {
 .first_button:focus {
   background-color: #404bbf;
 }
+/* close_sect */
+/* two_sect */
+/* .psevdo_container {
+  background-color:#404bbf;
+} */
+.hidden {
+
+}
+.list_new_one {
+ list-style: none;
+  display: flex;
+  gap: 25px;
+}
 .headsecti {
+ 
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -175,7 +189,7 @@ img {
   letter-spacing: 0.02em;
   color: var(--paragtwo);
 }
-/* close_sect */
+
 /* section_two_clouse */
 .secthree {
 }
@@ -187,7 +201,7 @@ img {
   text-transform: capitalize;
   color: var(--sectithree);
 }
-/* clousethreesecti */
+/* clouse_three_secti */
 .secour {
   background-color: #f4f4fd;
 }
