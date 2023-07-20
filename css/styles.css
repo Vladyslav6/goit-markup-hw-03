@@ -251,7 +251,11 @@ img {
 /* footer */
 .foot {
   background-color: var(--footercol);
-  padding: 140px 0 100px 0;
+  padding: 100px 0;
+}
+.foot .container .first_logo {
+  display: inline-block;
+  margin-bottom: 16px;
 }
 /* .footer_block {
 } */
@@ -267,7 +271,6 @@ img {
 .parfooter {
   max-width: 264px;
   max-height: 72px;
-  margin-top: 17.5px;
   line-height: 1.5;
   color: var(--footerpar);
   letter-spacing: 0.02em;
