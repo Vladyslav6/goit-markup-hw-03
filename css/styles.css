@@ -231,13 +231,22 @@ img {
 .list_items {
 }
 /* clouse_three_secti */
+/* four_secrion */
+
 .secour {
   background-color: #f4f4fd;
+  padding: 120px 0;
+}
+.secour .container .list {
+  text-align: center;
+  gap: 24px;
 }
 .photo {
   background-color: #ffffff;
 }
-
+.text_position {
+  padding: 32px 0 32px 0;
+}
 /* footer */
 .foot {
   background-color: var(--footercol);
