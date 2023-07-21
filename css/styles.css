@@ -327,6 +327,7 @@ img {
 .section_button .container .list .link .text_position {
   padding: 32px 16px;
   border: 1px solid #e7e9fc;
+  border-top: none;
 }
 
 /* close_main */
