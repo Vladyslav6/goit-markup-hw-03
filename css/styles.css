@@ -309,16 +309,16 @@ img {
   padding: 96px 0 120px 0;
 }
 
-.section_button .container .button .list {
+.section_button .container .list {
   display: flex;
   justify-content: center;
   gap: 24px;
-  margin-bottom: 72px;
 }
 .img_portfolio {
   display: flex;
 }
 .img_portfolio .list {
+  padding-top: 72px;
   flex-wrap: wrap;
   column-gap: 24px;
   row-gap: 48px;
