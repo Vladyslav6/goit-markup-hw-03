@@ -311,11 +311,12 @@ img {
   padding: 96px 0 120px 0;
 }
 
-.section_button .container .list {
+.list2 {
   display: flex;
   gap: 24px;
   justify-content: center;
   margin-bottom: 72px;
+  list-style: none;
 }
 
 .section_button .container .list {
