@@ -321,6 +321,7 @@ img {
 .img_portfolio .list {
   flex-wrap: wrap;
   column-gap: 24px;
+  row-gap: 48px;
 }
 /* close_main */
 /* open_footer */
