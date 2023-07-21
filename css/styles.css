@@ -313,12 +313,13 @@ img {
   display: flex;
   justify-content: center;
   gap: 24px;
+  margin-bottom: 72px;
 }
 .img_portfolio {
   display: flex;
 }
 .img_portfolio .list {
-  padding-top: 72px;
+  /* padding-top: 72px; */
   flex-wrap: wrap;
   column-gap: 24px;
   row-gap: 48px;
