@@ -318,6 +318,8 @@ img {
   margin-bottom: 72px;
   list-style: none;
 }
+.list_img {
+}
 
 .section_button .container .list {
   display: flex;
