@@ -320,7 +320,7 @@ img {
 .img_portfolio {
   display: flex;
 }
-.img_portfolio .list {
+.container .list {
   flex-wrap: wrap;
   column-gap: 24px;
   row-gap: 48px;
