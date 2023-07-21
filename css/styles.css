@@ -298,10 +298,12 @@ img {
 .butport:hover {
   color: #ffffff;
   background-color: #404bbf;
+  border: 1px solid transparent;
 }
 .butport:focus {
   color: #ffffff;
   background-color: #404bbf;
+  border: 1px solid transparent;
 }
 
 /* open_section_button */
@@ -319,7 +321,6 @@ img {
   display: flex;
 }
 .img_portfolio .list {
-  /* padding-top: 72px; */
   flex-wrap: wrap;
   column-gap: 24px;
   row-gap: 48px;
